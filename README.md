@@ -1,4 +1,4 @@
-**Instagram reach analysis**
+** Instagram reach analysis **
 # Objective: 
 The goal of your project was to develop a Machine Learning model to analyze and predict the reach of Instagram posts based on engagement metrics (likes, comments, shares, etc.).
 
@@ -14,7 +14,7 @@ You used regression models, which are types of supervised learning algorithms, t
 # Deployment with Streamlit: 
 To make your model accessible and user-friendly, you deployed it using Streamlit. Streamlit is a framework that allows you to create interactive web applications quickly. In your case, it enabled users to input their engagement metrics and visualize the predicted reach of their Instagram posts through an interactive dashboard.
 
-#Technologies Used:
+# Technologies Used:
 
 ## Python: The primary programming language for building the model.
 
