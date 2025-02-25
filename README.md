@@ -1,5 +1,5 @@
 # Instagram reach analysis 
-![INSTAGRAM REACH ANALYSIS ](["C:\Users\pc\Desktop\Instagram-icon.png"](https://github.com/chandum-04/Instagram_reach_analysis/blob/main/Instagram-icon.png))
+![INSTAGRAM REACH ANALYSIS ]([["C:\Users\pc\Desktop\Instagram-icon.png"](https://github.com/chandum-04/Instagram_reach_analysis/blob/main/Instagram-icon.png)](https://github.com/chandum-04/Instagram_reach_analysis/blob/main/Instagram-icon.png?raw=true))
 # Objective: 
 The goal of this project was to develop a Machine Learning model to analyze and predict the reach of Instagram posts based on engagement metrics (likes, comments, shares, etc.).
 
