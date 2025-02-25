@@ -1,4 +1,5 @@
 # Instagram reach analysis 
+![INSTAGRAM REACH ANALYSIS ]([image-url.png](https://th.bing.com/th/id/OIP.-ZirgQE5pr8e7htQWowJIgHaHa?rs=1&pid=ImgDetMain))
 # Objective: 
 The goal of this project was to develop a Machine Learning model to analyze and predict the reach of Instagram posts based on engagement metrics (likes, comments, shares, etc.).
 
